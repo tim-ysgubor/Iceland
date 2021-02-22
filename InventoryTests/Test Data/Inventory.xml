@@ -1,0 +1,54 @@
+﻿<Inventory>
+	<Product>
+		<name>Aged Brie</name>
+		<sellIn>1</sellIn>
+		<quality>1</quality>
+	</Product>
+	<Product>
+		<name>Christmas Crackers</name>
+		<sellIn>-1</sellIn>
+		<quality>2</quality>
+	</Product>
+	<Product>
+		<name>Christmas Crackers</name>
+		<sellIn>9</sellIn>
+		<quality>2</quality>
+	</Product>
+	<Product>
+		<name>Soap</name>
+		<sellIn>2</sellIn>
+		<quality>2</quality>
+	</Product>
+	<Product>
+		<name>Frozen Item</name>
+		<sellIn>-1</sellIn>
+		<quality>55</quality>
+	</Product>
+	<Product>
+		<name>Frozen Item</name>
+		<sellIn>2</sellIn>
+		<quality>2</quality>
+	</Product>
+	<Product>
+		<name>INVALID ITEM</name>
+		<sellIn>2</sellIn>
+		<quality>2</quality>
+	</Product>
+	<Product>
+		<name>Fresh Item</name>
+		<sellIn>2</sellIn>
+		<quality>2</quality>
+	</Product>
+	<Product>
+		<name>Fresh Item</name>
+		<sellIn>-1</sellIn>
+		<quality>5</quality>
+	</Product>
+	<Product>
+		<name>Duff Beer</name>
+		<sellIn>1</sellIn>
+		<quality>5</quality>
+	</Product>
+
+</Inventory>
+
